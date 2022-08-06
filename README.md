@@ -1,13 +1,22 @@
 ## Привет всем, меня зовут Павел - начинающий Web-developer <img src="https://img.icons8.com/emoji/30/000000/waving-hand-emoji.png"/>
 
-- 🔥 Стремлюсь к работе с настоящими боевыми проектами
+- 🔥 Работаю с настоящими боевыми проектами
 - 👀 Хочу работать с опытными коллегами
 - 🌱 Освоить новые фреймворки и углубить знания в уже известных мне
-- ✍️ Хочу писать чистый код
+- ✍️ Стараюсь писать чистый код
 
 ## <img src="https://img.icons8.com/emoji/30/000000/hammer-and-wrench.png"/>Мой стек:
 
-<img src="https://img.icons8.com/officel/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/html.png"/> <img src="https://img.icons8.com/officel/48/000000/css.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/nolan/48/git.png"/>
+<img src="https://img.icons8.com/officel/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/vue-js.png"/>
+<img src="https://img.icons8.com/fluency/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/48/intellij_phpstorm_macos_bigsur_icon_190057.png"/> 
+<img src="https://img.icons8.com/nolan/48/git.png"/> 
+
 
 ## <img src="https://img.icons8.com/emoji/48/000000/trophy-emoji.png"/> Моя статистика:
 
@@ -17,4 +26,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAxenov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связь со мной:
-<img src="https://img.icons8.com/fluency/40/000000/mail-network.png"/> Почта: pavelkishlyanov@gmail.com
+<img src="https://img.icons8.com/fluency/36/important-mail.png"/> Почта: pavelkishlyanov@gmail.com
