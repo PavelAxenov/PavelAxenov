@@ -18,5 +18,3 @@
 
 ## Связь со мной:
 <img src="https://img.icons8.com/fluency/36/important-mail.png"/> Почта: pavelkishlyanov@gmail.com
-
-<img src="https://img.icons8.com/fluency/36/important-mail.png"/> Почта: pavelkishlyanov@gmail.com
