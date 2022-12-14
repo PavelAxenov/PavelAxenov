@@ -12,7 +12,7 @@
 
 ![PavelAxenov's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelAxenov&show_icons=true&&bg_color=00050001)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAxenov&layout=compact)](https://github.com/PavelAxenov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAxenov)](https://github.com/PavelAxenov/github-readme-stats)
 
 ## Связь со мной:
 
