@@ -10,9 +10,9 @@
 
 ## <img src="https://img.icons8.com/emoji/48/000000/trophy-emoji.png"/> Моя статистика:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelAxenov)](https://github.com/anuraghazra/github-readme-stats)
+![PavelAxenov's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelAxenov&show_icons=true&&bg_color=00050001)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAxenov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelAxenov&layout=compact)](https://github.com/PavelAxenov/github-readme-stats)
 
 ## Связь со мной:
 
