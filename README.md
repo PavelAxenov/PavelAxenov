@@ -1,6 +1,5 @@
 
 ## <div align="center">Hi there, I'm Pavel 👋 - Web-developer</div>
-___
 
 ###<img src="https://img.icons8.com/emoji/25/000000/hammer-and-wrench.png"/>Мой стек:
 
